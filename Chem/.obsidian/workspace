@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "8ec877642a051cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a775d26c0e24632",
+        "type": "leaf",
+        "dimension": 49.864498644986455,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mass To Mass.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4518ed7a2b0ec276",
+        "type": "leaf",
+        "dimension": 50.135501355013545,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Mass To Mass.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ebbd3acd18964c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b362ce3798268899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d909379c4ab4afcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d35ecac620f06e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378
+  },
+  "right": {
+    "id": "e8e9decc598e3c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0b60bbb124cdc6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2645eba03fb1b43a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mass To Mass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9a775d26c0e24632",
+  "lastOpenFiles": [
+    "Mass To Mass.md",
+    "Concentration.md",
+    "Mass To Mass.pdf",
+    "PT_ions.pdf"
+  ]
+}

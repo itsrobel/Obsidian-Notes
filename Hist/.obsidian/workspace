@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "164c93433e74043c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa05c8111ce35e35",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "KSA.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcb5d7a482cbeed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee1da1cd8c35dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c445b4dd26680e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6b345383c06c408",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1865bea336bdd444",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff186bd44836b96a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e5adb4663bd689",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KSA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa05c8111ce35e35",
+  "lastOpenFiles": [
+    "KSA.md"
+  ]
+}

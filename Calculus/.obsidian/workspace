@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ceb95b8756ab6975",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a36cf50e3e94cbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Derivative.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b005c264f73808ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2883e278d4c53ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af6da919b71084b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e896dc685c5ce845",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.00482177734375
+  },
+  "right": {
+    "id": "74bf1f7b36fc9a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "91064cadbbf4109d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8828ac0e4c9d288e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Derivative.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2a36cf50e3e94cbc",
+  "lastOpenFiles": [
+    "Derivative.md",
+    "Graphs.md"
+  ]
+}

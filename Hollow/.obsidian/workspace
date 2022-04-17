@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "3dea27eac7199386",
+    "type": "split",
+    "children": [
+      {
+        "id": "c295c2fb9256fd18",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resources.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c2c6aacb066abeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "74966e0de044a869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49af2cc2147996da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b236281275c5c8ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "70e7691448eeae67",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab39be2d47587034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a085a4633b2d1f6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.00323486328125
+  },
+  "active": "c295c2fb9256fd18",
+  "lastOpenFiles": [
+    "Resources.md",
+    "Python AI.md",
+    "Not Graphql.md",
+    "Code.md",
+    "Untitled.md"
+  ]
+}
