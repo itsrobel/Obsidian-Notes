@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "317d96953c2cfca0",
+    "id": "d792b8878f373dee",
     "type": "split",
     "children": [
       {
-        "id": "465648a3e20965e9",
+        "id": "323c2374f22da114",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code.md",
-            "mode": "preview"
+            "file": "English.md",
+            "mode": "source"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5b855a86548a248d",
+    "id": "ae8e18fe4c999533",
     "type": "split",
     "children": [
       {
-        "id": "94760259d0bfefad",
+        "id": "b6f842a7a69fadb2",
         "type": "tabs",
         "children": [
           {
-            "id": "9797f0f3ec3b171e",
+            "id": "c967725c0b2f5777",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "eb699f1b05a179be",
+            "id": "8e8bb18fa86b3e2b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 100
   },
   "right": {
-    "id": "cd429f062ce0b21d",
+    "id": "5cdae110d0f6cb2e",
     "type": "split",
     "children": [
       {
-        "id": "04d8a2e70fd821bc",
+        "id": "c79f2c66824d9a60",
         "type": "tabs",
         "children": [
           {
-            "id": "00b3ef0671a817c5",
+            "id": "e0ea6042d76277f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code.md",
+                "file": "English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "465648a3e20965e9",
+  "active": "323c2374f22da114",
   "lastOpenFiles": [
-    "Code.md",
-    "Python.md",
-    "Not Graphql.md",
-    "MongoDB.md",
-    "GraphQL.md",
-    "Build.md",
-    "Resources.md",
-    "Python AI.md",
-    "MySQL.md",
-    "PDFs/conversation.pdf"
+    "English.md",
+    "Math.md"
   ]
 }
