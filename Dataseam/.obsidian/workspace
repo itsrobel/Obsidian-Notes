@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "7b3ad02efc70dac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bccd219b106a127",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "DSApprenticeL6 NetworkingHardware.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2e7198c51263c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a1747e1dea1abf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "443779fd609a1725",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "09ee20f2df09903b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206
+  },
+  "right": {
+    "id": "420ebb1d898a7503",
+    "type": "split",
+    "children": [
+      {
+        "id": "09df46a9a2d24f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83a49465a7d3a58f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSApprenticeL6 NetworkingHardware.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5bccd219b106a127",
+  "lastOpenFiles": [
+    "DSApprenticeL6 NetworkingHardware.pdf",
+    "DSApprenticeL6 Questions.pdf",
+    "DSApprenticeL2 Questions.pdf",
+    "Robel_Schwarz-L3.pdf",
+    "firstLast-L1.pdf"
+  ]
+}

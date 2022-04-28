@@ -1,12 +1,16 @@
 __10g LiOH + HBr __ -> _LiBr + $h_2$O_
 ${ (10 * 87  )/ 23  }$
 
+
+$$\frac{grams given * mole given * co needed * gram needed}{mass given * co given * mole needed}$$
 _Li_		= 7
 _O_  	= 16
 _H_ 	= 1
 _Br_	= 80
 _K_ = 39
 _Cl_ =35
+
+
 
 
 _$Zn^{2}$_ = 65
