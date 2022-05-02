@@ -55,15 +55,21 @@ _C)_ __how much of the other agent is left over
 
 
 #### $3NH_4NO_3 + Na_3PO_4 -> (NH_4)_3PO_4 +3NaNO_3$
-_using 30g of _ $NH_4NO_3$
+_using 30g of _ $NH_4NO_3$  produce $3NaNO_3$
 
-$$\frac{80}{}$$
+$$30g \frac{ 1m * 3 *85g }{80g *3* 1m }$$
 
-_using 50g of _$Na_3PO_4$
+_using 50g of _$Na_3PO_4$ produce $3NaNO_3$
+
+$$50g \frac{1m * 1 * 85g}{164g * 3 *  1m}$$
 
 
 ### $3CaCO_3 + 2FePO_4 -> Ca_3(PO_4)_2 + Fe_2(CO_3)_3$
 
-_using 100g of_ $CaCO_3$
+_using 100g of_ $CaCO_3$ produce $Fe_2(CO_3)_3$
 
-_using 45g of_ $FePO_2$
+$$100g \frac{1m * 1*290}{100*1*1m}$$
+
+_using 45g of_ $FePO_2$ produce $Fe_2(CO_3)_3$
+
+$$45g \frac{1m * 1 *290}{118*1*1m}$$

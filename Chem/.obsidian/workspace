@@ -20,7 +20,7 @@
           "type": "markdown",
           "state": {
             "file": "Rice.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -99,9 +99,9 @@
   "active": "9a775d26c0e24632",
   "lastOpenFiles": [
     "Rice.md",
-    "Mass To Mass.pdf",
     "PT_ions.pdf",
     "Mass To Mass.md",
-    "Concentration.md"
+    "Concentration.md",
+    "Mass To Mass.pdf"
   ]
 }
