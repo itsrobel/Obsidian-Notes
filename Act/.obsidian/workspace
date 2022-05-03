@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Math.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,6 +89,8 @@
   "active": "323c2374f22da114",
   "lastOpenFiles": [
     "Math.md",
-    "English.md"
+    "English.md",
+    "mathformp1.png",
+    "mathformp2.png"
   ]
 }
