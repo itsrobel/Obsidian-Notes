@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c5b2f091504a0ea3",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Mass To Mass.pdf"
-          }
-        }
-      },
-      {
-        "id": "9a775d26c0e24632",
+        "id": "ce8e9e91b97a79c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Rice.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -62,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 286
   },
   "right": {
     "id": "e8e9decc598e3c9a",
@@ -96,12 +86,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a775d26c0e24632",
+  "active": "ce8e9e91b97a79c0",
   "lastOpenFiles": [
     "Rice.md",
-    "PT_ions.pdf",
-    "Mass To Mass.md",
+    "lrw.pdf",
     "Concentration.md",
-    "Mass To Mass.pdf"
+    "Mass To Mass.md",
+    "Mass To Mass.pdf",
+    "PT_ions.pdf",
+    "limiting reagent worksheet.pdf.md"
   ]
 }

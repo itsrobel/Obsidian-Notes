@@ -73,3 +73,5 @@ $$100g \frac{1m * 1*290}{100*1*1m}$$
 _using 45g of_ $FePO_2$ produce $Fe_2(CO_3)_3$
 
 $$45g \frac{1m * 1 *290}{118*1*1m}$$
+##  Limiting Reagent worksheet 2
+![[lrw.pdf#page=3]]

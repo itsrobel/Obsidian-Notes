@@ -10,7 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Math.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "88915f5ce508346b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes.md",
+            "mode": "source"
           }
         }
       }
@@ -90,7 +101,9 @@
   "lastOpenFiles": [
     "Math.md",
     "English.md",
-    "mathformp1.png",
-    "mathformp2.png"
+    "Notes.md",
+    "Practice Tests.md",
+    "mathformp2.png",
+    "mathformp1.png"
   ]
 }
