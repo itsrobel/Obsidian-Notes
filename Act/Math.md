@@ -1,10 +1,10 @@
 
 # My Act Course
-### formulas
+## formulas
 ![[mathformp1.png]]
 ![[mathformp2.png]]
 
-### Solving Equations
+## Solving Equations
 __word problem__
 This spring, Malik purchased 3 trays of pepper plants and 5 trays of tomato plants for $26. If each tray of tomato plant costs twice as much as each trya of pepepper plants, how much did he pay for all the tomato plants
 
@@ -20,71 +20,48 @@ __Section Notes__
 
 ![[Hax#Solving Equations]]
 
-#### practice
+### Practice
 
-_Question 1_
+#### _Question 1_
 $4y= 3x-1 , x=?$
-$4y + 1 =3x$
-$x = \frac{4y + 1}{3}$
+$4y + 1 =3x \rightarrow x=\frac{4y + 1}{3}$
 
-_Question 2_
-$C = 0.5s + 0.35n + 0.25t$
-$C = 3.55$
-$n = 3$
-$t =2$
-$3.55 = 0.5s + 0.35(3) + 0.25(2)$
+#### _Question 2_
+$C = 0.5s + 0.35n + 0.25t , C=3.44 , n=3, t=2$
+$3.55 = 0.5s + 0.35(3) + 0.25(2) \rightarrow s = 4$
+#### _Questions 3_
+$r = 30 + g , g= 21 + b$
+$105 = r + g + b \rightarrow 105 = (30 + 21+ b) + (21 + b) + b$
 
-$s = 4$
-_Questions 3_
+$105 = 72 + 3b \rightarrow b = 11$
 
-$r = 30 +g$
-$g = 21 + b$
-$105 = r + g + b$
-$105 = (30 + 21+ b) + (21 + b) + b$
+$r = 30 + (21 + 11) \rightarrow r = 62$
 
-$105 = 72 + 3b$
-
-$b = 11$
-
-$r = 30 + (21 + 11)$
-$r = 62$
-
- #### indpendant practice 
+ ### indpendant practice 
  
- _Question 1_
- $3y + \frac{2}{3}= 5y$ solve for y
+ #### _Question 1_
+ $3y + \frac{2}{3}= 5y , y=?$
  
- $9y + 2 = 15y$
- $2 = 6y$
- $y = \frac{1}{3}$
+ $9y + 2 = 15y  \rightarrow 2= 6y \rightarrow y =\frac{1}{3}$
  
- _Question 2_
+ #### _Question 2_
  
- $B = 7LH$
- $B = 280$
- $L = 16$
+ $B = 7LH, B = 280, L = 16$
  
- $280  = 7(16)H$
+ $280  = 7(16)H \rightarrow H = 2.5$
  
- $H = 2.5$
- 
- _Question 3_
- 
- 
-$y = cx$
-$56 = 10c$
+#### _Question 3_
+$y = cx \rightarrow 56 = 10c$
 $\frac{56}{10} =c$
 
 
-_Question 4_
+#### _Question 4_
 
 $8(15 + 12)$
 
-_Question 5_
+#### _Question 5_
 
-$l = 2m$
-$2s = m$
-
+$l = 2m \rightarrow 2s = m$
 $m + 2m + \frac{m}{2}$
 
 
@@ -93,3 +70,5 @@ $m + 2m + \frac{m}{2}$
  
 
 
+
+## Linear Graphs

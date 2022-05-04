@@ -13,7 +13,7 @@ Incoorect sentence types:
 	-  two or more complete clauses, incorrectly combined
 	
 	
-#### Fragments
+## Fragments
 ![[Hax#Sentence Structure#Fragment]]
 _ex_
 
@@ -28,7 +28,7 @@ _No Subject_ in the sentence
 there for it can not be answer choice 1 (a) or 2 (b)
 the anwser is not 4 since there is not comparison made like the word "since" would indicate, making choice 4 an incomplete thought
 
-#### Run-on
+## Run-on
 
 
 _ex_
@@ -61,8 +61,8 @@ _Two Independent Clauses_
 
 
 
-#### Practice
-##### _Question 1_
+## Practice
+### _Question 1_
 During __Q1__ _performances, which_ Cambodian classical dancers use simple but meaningful stylized movements.
 - NO CHANGE
 -  __performances, __
@@ -73,7 +73,7 @@ __expl__
 The sentence is an independent and dependent clause, all that is required is a comma
 __Takeaway:__ A sentence must contain a subject and a main verb and convey a complete idea.
 
-##### _Question 2_
+### _Question 2_
 They disguised their training as dances called sinulogs, which translates as “moving like a river,” __Q2__ _those_ mimicked the circular arm and leg movements of kali.
 
 - NO CHANGE
@@ -89,7 +89,7 @@ sentence is two independent clauses
 
 __Takeaway:__  A run-on can be corrected by changing one clause so it is no longer independent.
 
-##### _Question 3_
+### _Question 3_
 
 In the late 1960s, New York City officials made plans to build an __Q3__ _expressway, that_ would cut through Greenwich Village, Jacobs’s neighborhood.
 
@@ -106,8 +106,8 @@ it independent there by a complete sentence
 
 __Takeaway:__  “That” is never preceded by a comma.
 
-#### Independent Practice
-##### _Question 1_
+## Independent Practice
+### _Question 1_
 Typically, a student grasps an arm-length stick made of __Q1__ _rattan, and he_ or she trains by striking the stick against an opponent’s stick.
 
 Which of the following alternatives to the underlined portion would NOT be acceptable?
@@ -120,7 +120,7 @@ __expl__
 _"whom"_ must refer to a person, but "rattan" is a substance; thus, this alternative is NOT acceptable and is the correct answer
 
 __Takeaway:__ Two independent clauses should be separated using a comma (and a FANBOYS conjunction), a semicolon, or a period.
-##### _Question 2_
+###  _Question 2_
 
 The man who revolutionized the shoe industry by inventing an automatic shoe-lasting machine was Jan Ernst Matzeliger, a mechanic. __Q2__ _Born_ in 1852 of Dutch and African parents. Matzeliger was ten years old when he began working in the machine shop that his father supervised. There, Matzeliger developed his interest in machines.
 
@@ -134,7 +134,7 @@ __expl__
 includes the subject "He" and uses the past tense verb "was," forming a complete sentence
 
 __Takeaway:__ A complete sentence requires a subject and a predicate verb to form an independent clause.
-##### _Question 3_
+### _Question 3_
 Doctors have used VR to render 3-D images of their patients’ __Q3__ _bodies; one_ day, surgeons may be able to experience what it feels like to perform delicate operations before ever picking up a scalpel.
 
 Which of the following alternatives to the underlined portion would _NOT_ be acceptable?
@@ -149,7 +149,7 @@ two independent clauses cannot be separated by a comma without also using an app
 
 __Takeaway:__ Two independent clauses can be separated using a period, a semicolon, or a comma with a FANBOYS conjunction.
 
-##### _Question 4_
+### _Question 4_
 Humans likewise are impressed by the spectacular __Q4__ _colors,_ the feathers are widely valued as decorations. In 2003, physicist Jian Zi from Fudan University in Shanghai, China, led the first research group to identify the source of this vibrant color.
 
 - NO CHANGE
@@ -160,7 +160,7 @@ __expl__
 Correct: uses a comma and the FANBOYS conjunction "and" to  properly separate the two independent clauses; "and," combined with "as a result," captures the logical relationship by indicating that the first clause is a reason that helps explain why the second clause is true
 
 __Takeaway:__ Two independent clauses must be separated by a period, a colon, or a comma and a FANBOYS conjunction that conveys the logical relationship between the two clauses
-##### _Question 5_
+### _Question 5_
 
 A spacious cavern lies before me at the bottom of the stairs. I explore lighted paths, reading signs along the way that tell about the formation of the cave. A great half-cylindrical limestone reef __Q5__ _that formed_ 250 million years ago in the inland sea that once covered the region; after the sea dried up, gypsum and salt deposits buried the reef. A few million years ago, erosion and the geologic upheaval that created the surrounding mountains exposed the reef again.
 
@@ -177,9 +177,73 @@ removes _"that"_ to provide the subject ("A great half-cylindrical limestone ree
 
 
 
+# Commas, Dashes, & Colons
+## Commas And Dashes
+![[Hax#Commas and Dashes]]
+
+_ex 1_
+The Segway, invented by Dean Kamen, was heralded as
+revolutionary at the time of its debut.
+
+given the rules of commas and dashes the sentence can also be rewritten to
+
+The Segway - invented by Dean Kamen - was heralded as
+revolutionary at the time of its debut.
+
+_ex 2_
+For my father is a commercial fisherman, whales are a common sight.
+
+- NO CHANGE
+- __father,__
+- father being
+- father
+
+Description of the subject in this case father is nonessential there for it needs to be marked out of the sentence
+## Colons
+![[Hax#Colons]]
+
+_ex_
+
+Delving into old garbage, has revealed important details about extinct societies.
+
+- NO CHANGE
+- garbage have
+- __garbage has__
+- garbage: has
+
+__expl__ 
+
+a colon can not be used here since the clause proceeding it is not independent
+
+we are left with _has_ and _have_ to figure out the answer we have to find _subject-verb_ agreement
+	![[Hax#subject-verb]]	
+	___Note___ The _ing_ forms of a verb can stand in as a subject in this case it does
+	in this sentence _delving_ is actually the subject with that mind we need a singular verb _has_
+	both parts of the sentence is required to make it complete therefore no comma
 
 
+## Practice
+### _Question 1_
+Three-dimensional games are one form of virtual __Q1__ _reality or VR_ a relatively new technology.
 
+-	NO CHANGE
+-	__reality or VR; __
+-	reality, or VR
+-	reality, or VR,
 
+### _Question 2_
 
+Architects have used the dome for thousands of years. For example, the Pantheon in Rome—a famous circular, domed building constructed in AD __Q2__ _120_, remains structurally sound after nearly two millennia.
 
+- NO CHANGE
+- 120 
+- 120;
+- __120-__
+
+### _Question 3_
+He was a high school mathematics teacher, and I __Q3__ _thought_ he was the smartest dad in the world.
+
+- __NO CHANGE__ 
+- thought:
+- thought,
+- thought, that
