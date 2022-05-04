@@ -7,9 +7,17 @@
         "id": "323c2374f22da114",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c6c634d4f3d10f0e",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "English.md",
+            "file": "Math.md",
             "mode": "preview"
           }
         }
@@ -68,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +93,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88915f5ce508346b",
+  "active": "323c2374f22da114",
   "lastOpenFiles": [
-    "English.md",
-    "Hax.md",
-    "Math.md",
     "Notes.md",
+    "Math.md",
+    "Hax.md",
+    "English.md",
     "mathformp2.png",
     "mathformp1.png",
     "Practice Tests.md",
-    "Reading.md",
-    "Hax.md"
+    "Reading.md"
   ]
 }

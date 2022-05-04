@@ -18,7 +18,7 @@ Malik purchased $20 of tomato
 
 __Section Notes__ 
 
-![[Notes#Solving Equations]]
+![[Hax#Solving Equations]]
 
 #### practice
 
