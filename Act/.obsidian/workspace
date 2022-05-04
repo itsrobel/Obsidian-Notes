@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "88915f5ce508346b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes.md",
-            "mode": "source"
+            "file": "English.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math.md",
+                "file": "English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +88,14 @@
   },
   "active": "323c2374f22da114",
   "lastOpenFiles": [
-    "Math.md",
     "English.md",
+    "Hax.md",
+    "Math.md",
     "Notes.md",
-    "Practice Tests.md",
     "mathformp2.png",
-    "mathformp1.png"
+    "mathformp1.png",
+    "Practice Tests.md",
+    "Reading.md",
+    "Hax.md"
   ]
 }
